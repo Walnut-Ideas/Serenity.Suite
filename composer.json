@@ -1,0 +1,38 @@
+{
+  "name": "serenity/framework",
+  "description": "description",
+  "homepage": "https://walnut-ideas.de",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Bachmann Kevin",
+      "email": "bachmann@walnut-ideas.de",
+      "homepage": "https://walnut-ideas.de"
+    }
+  ],
+  "funding": [
+    {
+      "type": "other",
+      "url": "https://walnut-ideas.de/funding"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/Walnut-Ideas/Serenity.suite/issues",
+    "source": "https://github.com/Walnut-Ideas/Serenity.Suite",
+    "docs": "https://github.com/Walnut-Ideas/",
+    "wiki": "https://github.com/Walnut-Ideas/Serenity.Suite/wiki"
+  },
+  "require": {
+    "php": "^8.2",
+    "ext-ctype": "*",
+    "ext-iconv": "*",
+    "ext-pcre": "*",
+    "ext-session": "*",
+    "ext-xml": "*",
+    "ext-tokenizer": "*"
+  },
+  "require-dev": {
+
+  },
+  "minimum-stability": "stable"
+}
