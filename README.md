@@ -1,1 +1,1 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/Walnut-Ideas/SerenityCore/2666de9aa1afb09c9928f8b579e3df04525f7a56/serenity-logo.svg" width="400px" alt="Serenity.suite"></a></p>
