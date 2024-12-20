@@ -29,7 +29,8 @@
     "ext-pcre": "*",
     "ext-session": "*",
     "ext-xml": "*",
-    "ext-tokenizer": "*"
+    "ext-tokenizer": "*",
+    "symfony/console": "v7.2.0"
   },
   "require-dev": {
 
